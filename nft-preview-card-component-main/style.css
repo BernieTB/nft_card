@@ -1,0 +1,36 @@
+html{
+    background-color: hsl(217, 54%, 11%);
+}
+
+hr{
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    
+}
+
+#card{
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+    border: solid;
+    text-align: justify;
+    background-color: hsl(216, 50%, 16%);
+}
+
+#card_title{
+    font-weight: 600;
+}
+
+#card_price{
+    font-weight: 600;
+}
+
+#card_sale_time_left{
+    font-weight: 300;
+}
+
+#card_author_img{
+}
+
+#card_author{
+    font-weight: 300;
+}
