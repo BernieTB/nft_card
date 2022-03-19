@@ -3,9 +3,8 @@ html{
 }
 
 hr{
-    color: hsl(0, 0%, 100%);
+    border-color: hsl(215, 32%, 27%);
     text-align: center;
-    
 }
 
 #card{
@@ -14,23 +13,6 @@ hr{
     border: solid;
     text-align: justify;
     background-color: hsl(216, 50%, 16%);
-}
-
-#card_title{
-    font-weight: 600;
-}
-
-#card_price{
-    font-weight: 600;
-}
-
-#card_sale_time_left{
-    font-weight: 300;
-}
-
-#card_author_img{
-}
-
-#card_author{
-    font-weight: 300;
+    border-color: hsl(216, 50%, 16%);
+    border-radius: 20px;
 }
